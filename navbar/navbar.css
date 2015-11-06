@@ -1,0 +1,36 @@
+.navbar {
+    background-color:black;
+    margin: 10px;
+    border-radius: 5px;
+     text-align: center;
+      padding: 5px;
+    
+    
+    
+}
+.navbar ul  li{
+    box-sizing: border-box;
+    padding: 10px;
+    list-style-type: none;
+     display: inline;  
+}
+a.navbar2 {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: white;
+    padding: 10px;
+    width: 160px;
+    
+    
+}
+
+a.navbar2:link, a.navbar2:visited {
+   font-weight: bold;
+}
+
+a.navbar2:hover, a.navbar2:active {
+    background-color:slategray;
+   border-radius: 15px;
+   
+}
